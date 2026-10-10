@@ -554,6 +554,10 @@ Submit **only the link to your public GitHub repository** (no other files or inf
 
 ```
 https://github.com/[your-username]/OS-Assignment1-[YourFirstName]-[YourLastName]
+
+Name: Roaa Fahad Alkhulaqi
+ID:446540228
+video link:https://drive.google.com/file/d/1SlzUye3DBTMpuMU325GXOB86cc_HMJFY/view?usp=drivesdk
 ```
 
 Everything else (name, student ID, development log, reflection, answers, and the video link) is read from your repository, in `MY_WORK.md`. Make sure the repository is public and complete before the deadline.
